@@ -90,7 +90,7 @@ const Home: NextPage = () => {
                   color={"secondary"}
                   sx={{ mt: 5 }}
                 >
-                  Contratar um profissional
+                  Contratar um profissional!
                 </Button>
               </Container>
             </ProfissionaisPaper>
