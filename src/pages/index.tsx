@@ -28,7 +28,7 @@ const Home: NextPage = () => {
     <div>
       <SafeEnvironment />
       <PageTitle
-        title={"Conheça os profissionais"}
+        title={"Conheça os profissionais!"}
         subtitle={
           "Preencha seu endereço e veja todos os profissionais da sua localidade"
         }
